@@ -1,0 +1,3 @@
+# Analysis Framework
+
+Each case study follows the same process: pick an incident that is well-documented and covers a broad range of ATT&CK tactics, write the attack flow based on what actually happened, then map each step to verified MITRE ATT&CK technique IDs. Sources are prioritized by credibility (government advisories and primary vendor reports first, secondary sources only to fill gaps). If something can't be backed by a credible source, it doesn't go in. Anything uncertain or unknown is documented in each case study's `limitations.md` rather than guessed at. The analysis aims for honest, evidence-based analysis.
